@@ -11,6 +11,6 @@ Go to the bot editing screen then run the program.
 
 If it succeeded then the program should say "Write Success"
 
-the game graphics however won't update until you buy or sell an item.
+The game graphics however won't update until you buy or sell an item.
 
-alternatively you can always use the built in cheat by pressing '$', however it doesn't give as mush money.
+Alternatively you can always use the built in cheat by pressing '$', however it doesn't give as mush money.
